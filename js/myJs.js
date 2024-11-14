@@ -5,7 +5,7 @@ const textConfig = {
   text4: "Nếu Bro Phương ko trả lời mà thoát ra tức là bạn Phương trẻ chow vl :v",
   text5: "Chê :))",
   text6: "Shy đẹp trai vcllll :))",
-  text7: "Bạn Mai thấy Shy như thế nào?? :vvvv",
+  text7: "Bạn Phương thấy Shy như thế nào?? :vvvv",
   text8: "Gửi cho Shy nào <3",
   text9: "Shy đẹp try, hiền lành, tốt bụng, perfect vlllll :)))",
   text10: "Bạn Phương ngoan lắm =))",
