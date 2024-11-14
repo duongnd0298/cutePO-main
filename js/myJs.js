@@ -1,16 +1,16 @@
 const textConfig = {
   text1: "Hế luu Bro!",
-  text2: "T có điều này muốn hỏi Bro Mai trả lời thật lòng nhaaa.",
-  text3: "Bro Mai có thấy t đẹp trai không nào ._.",
-  text4: "Nếu Bro Mai ko trả lời mà thoát ra tức là bạn Mai trẻ chow vl :v",
+  text2: "T có điều này muốn hỏi Bro Phương trả lời thật lòng nhaaa.",
+  text3: "Bro Phương có thấy t đẹp trai không nào ._.",
+  text4: "Nếu Bro Phương ko trả lời mà thoát ra tức là bạn Mai trẻ chow vl :v",
   text5: "Chê :))",
   text6: "Shy đẹp trai vcllll :))",
   text7: "Bạn Mai thấy Shy như thế nào?? :vvvv",
   text8: "Gửi cho Shy nào <3",
   text9: "Shy đẹp try, hiền lành, tốt bụng, perfect vlllll :)))",
-  text10: "Bạn Mai ngoan lắm =))",
+  text10: "Bạn Phương ngoan lắm =))",
   text11:
-    "Chúc bạn Mai ngày 8-3 vui vẻ và hạnh phúc nha :DDDDDDDDDDDDD",
+    "Chúc bạn Phương 1 ngày vui vẻ và hạnh phúc nha :DDDDDDDDDDDDD",
   text12: "Love You <3",
 };
 
